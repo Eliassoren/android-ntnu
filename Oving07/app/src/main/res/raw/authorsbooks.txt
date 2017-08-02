@@ -1,0 +1,13 @@
+Bud Kurniawan, Android Application Development: A Beginners Tutorioal
+Mildrid Ljosland, Programmering i C++
+Else Lervik, Programmering i C++
+Mildrid Ljosland, Algoritmer og datastrukturer
+Helge Hafting, Algoritmer og datastrukturer
+Yuichi Nakamura, XML and Java
+Ryo Neyama, XML and Java
+Kazuya Kosaka, XML and Java
+Satoshi Hada, XML and Java
+Thomas H. Cormen, Introduction to Algorithms
+Charles E. Leiserson, Introduction to Algorithms
+Ronald L. Rivest, Introduction to Algorithms
+Clifford Stein, Introduction to Algorithms
